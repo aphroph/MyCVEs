@@ -1,2 +1,2 @@
 # MyCVEs
-These are CVEs i have reported and credited to me. 
+These are the CVEs credited to me. 
